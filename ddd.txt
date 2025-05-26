@@ -1,2 +1,0 @@
-This is ddd file for demo perpose.
-This file is updated for second commit.
